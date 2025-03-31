@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, sou Emanuel</h1>
+<h3 align="center">Estudante de ciência da computação, que está aprendendo tudo e muito mais</h3>
 
-<!--
-**emanuelklaser/emanuelklaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando com **TelessaudeRS**
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo **Ciência da computação, parte da programação agora**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 Estou procurando ajuda com **Programação, principalmente javascript**
+
+- 📫 Como entrar em contato comigo **emanuelklaser@gmail.com**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
